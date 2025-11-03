@@ -1,2 +1,15 @@
-# corsa
-Web app for supplamenting Jira scrum metrics.
+# Corsa
+
+Web app for supplementing Jira scrum metrics.
+
+## Development
+
+```
+npm dev
+```
+
+## Building
+
+```
+npm build
+```
